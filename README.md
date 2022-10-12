@@ -1,2 +1,2 @@
 # Banco-Digital-POO-Java
-demonstração do uso de orientação a objetos em Java
+Projeto simples para demonstar a utilização da programação orientada a objetos em Java.
